@@ -25,6 +25,10 @@ These are all forks of interesting github repos that I am no longer actively wor
 
 - [glium: Safe OpenGL wrapper for the Rust language](https://github.com/glium/glium)
 
+### Random
+
+- [logos: Create ridiculously fast Lexers](https://github.com/maciejhirsz/logos)
+
 #### Progress
 
 9/14/26 down to 259 repos out of 144 forks
